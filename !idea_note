@@ -1,3 +1,11 @@
 #作りたいものを書く
-:Subliminal Eigo
-    英単語を垂れ流すWindowsアプリケーションプログラム.
+Subliminal Eigo
+    ・英単語を垂れ流すWindowsアプリケーションプログラム.
+    要素）windowsフォームアプリの作り方、csv読み取り、windowsmediaplayerの使い方
+    参考）ファイル、ディレクトリが存在するか調べる https://dobon.net/vb/dotnet/file/fileexists.html
+        　MP3プレーヤーを作る https://www.usefullcode.net/mp3player/
+        　TextFieldParserを利用してCSVファイルやTSVファイルを読み込む　https://www.ipentec.com/document/csharp-read-csv-file-by-textfieldparser
+        　第5回初めてのWindowsアプリの開発　http://www.atmarkit.co.jp/ait/articles/1409/22/news122.html
+         
+BinalyExpress
+    ・１０進数の数字を２の階乗のみで当てるゲーム.
